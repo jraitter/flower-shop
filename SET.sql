@@ -1,9 +1,0 @@
-CREATE TABLE books
-(
-  id INT NOT NULL AUTO_INCREMENT,
-  title VARCHAR (255) NOT NULL,
-  author VARCHAR (255) NOT NULL,
-  available TINYINT,
-
-  PRIMARY KEY(id)
-)
